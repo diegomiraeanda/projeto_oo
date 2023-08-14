@@ -1,2 +1,2 @@
 # Aplicativo de Gerenciamento de Finanças Pessoais
-Projeto final para a matéria de Programação Orientada e Objetos
+Sistema integrado desenvolvido em C# para a matéria de Programação Orientada a Objetos. Este projeto tem como objetivo simular uma situação real onde o usuário necessita realizar o controle de suas receitas e gastos.
